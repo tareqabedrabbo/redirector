@@ -1,0 +1,5 @@
+{
+	"port": 5000,
+	"location":"http://www.cafebabe.me/",
+	"debug": true
+}
